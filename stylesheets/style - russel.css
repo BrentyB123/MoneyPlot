@@ -1,0 +1,11 @@
+.numbers {
+	font-size: 2rem;
+}
+
+.spent {
+	color: red;
+}
+
+.saved {
+	color: green;
+}

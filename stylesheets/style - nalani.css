@@ -1,0 +1,39 @@
+
+h1{
+    font-size:50px;
+    text-anchor: middle;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
+.card {
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.card a {
+    font-size: 15pt;
+}
+
+.card-text {
+    font-size:smaller;
+}
+
+.card-img-top{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.shadow{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+

@@ -1,0 +1,29 @@
+/* Main CSS */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.navbar-nav { 
+    margin-left: auto; 
+    margin-right: 0 !important;
+} 
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
